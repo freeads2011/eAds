@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eAds.Web", "eAds.Web\eAds.Web.csproj", "{35463DCA-C9AF-4EC6-9038-7AD517D711F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eAds.Web.Tests", "eAds.Web.Tests\eAds.Web.Tests.csproj", "{5EA9123A-5A5D-477F-A1E6-C6FCB7FBE8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35463DCA-C9AF-4EC6-9038-7AD517D711F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35463DCA-C9AF-4EC6-9038-7AD517D711F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35463DCA-C9AF-4EC6-9038-7AD517D711F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35463DCA-C9AF-4EC6-9038-7AD517D711F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA9123A-5A5D-477F-A1E6-C6FCB7FBE8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA9123A-5A5D-477F-A1E6-C6FCB7FBE8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA9123A-5A5D-477F-A1E6-C6FCB7FBE8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA9123A-5A5D-477F-A1E6-C6FCB7FBE8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

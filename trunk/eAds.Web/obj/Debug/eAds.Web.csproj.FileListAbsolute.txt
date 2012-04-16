@@ -1,0 +1,7 @@
+D:\1\eAds\eAds.Web\bin\eAds.Web.dll
+D:\1\eAds\eAds.Web\bin\eAds.Web.pdb
+D:\1\eAds\eAds.Web\bin\EntityFramework.dll
+D:\1\eAds\eAds.Web\bin\EntityFramework.xml
+D:\1\eAds\eAds.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\1\eAds\eAds.Web\obj\Debug\eAds.Web.dll
+D:\1\eAds\eAds.Web\obj\Debug\eAds.Web.pdb
